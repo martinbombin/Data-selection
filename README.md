@@ -1,4 +1,4 @@
-# data-seletcion
+# Data-selection
 
 Example of use:
 
